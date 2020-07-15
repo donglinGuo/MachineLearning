@@ -1,0 +1,1 @@
+http://pelhans.com/2019/10/30/text_matching/#mv-dssm--a-multi-view-deep-learning-approach-for-cross-domain-user-modeling-in-recommendation-systems
